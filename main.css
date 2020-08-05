@@ -10,6 +10,10 @@
     text-align: center;
 }
 
-.timebound-button{
-    text-align: center;
+.box{
+    width: 10;
+    height: 10;
+    border: coral;
+    background-color: cornflowerblue;
+    border-radius: 5px;
 }
