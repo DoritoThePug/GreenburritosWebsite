@@ -3,6 +3,8 @@
     height: 500px;
     margin: 0px;
     padding: 0px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
 }
 
 .home-page-title{
@@ -33,10 +35,14 @@
 
 .timebound-button{
     justify-content: center;
-    width: 100px;
-    height: 50px;
+    width: 300px;
+    height: 100px;
     background-color: darkgray;
     font-weight: bold;
+    border-width: 0px;
+    border-radius: 4px;
+    font-size: 50px;
+    
 }
 
 .timebound-button:hover{
