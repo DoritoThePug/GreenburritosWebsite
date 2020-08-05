@@ -7,6 +7,7 @@
 
 .home-page-title{
     text-align: center;
+    font-size: 100px;
 }
 
 .home-page-quote{
@@ -28,4 +29,16 @@
 
 .box:hover{
     background-color: darkblue;
+}
+
+.timebound-button{
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+    background-color: darkgray;
+    font-weight: bold;
+}
+
+.timebound-button:hover{
+    background-color: darkslategrey;
 }
