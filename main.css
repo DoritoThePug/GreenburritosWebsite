@@ -1,3 +1,11 @@
 .home-page{
     background-color: chartreuse;
 }
+
+.home-page-title{
+    text-align: center;
+}
+
+.home-page-quote{
+    text-align: center;
+}
